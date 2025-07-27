@@ -5,7 +5,7 @@ Me:
 
 ## 🚗 What is Drontroler?
 
-Drontroler is a DIY modding solution that turns any compatible RC vehicle into a smart, programmable car. It uses the **micro:bit** as the core controller, enabling wireless communication between a handheld micro:bit-based controller and another micro:bit mounted on the RC vehicle.
+Drontroler is a DIY modding solution that turns any compatible RC vehicle into a smart, programmable car. It uses the **micro:bit** as the core controller, enabling wireless communication between a handheld micro:bit-based controller.
 
 ## 🎮 Features
 
