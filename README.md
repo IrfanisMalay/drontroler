@@ -20,7 +20,7 @@ Drontroler is a DIY modding solution that turns any compatible RC vehicle into a
 ### Hardware
 
 - 2x Battery AA for Microbit battery pack
-- 2x [BBC micro:bit](https://microbit.org/)
+- 1/2x [BBC micro:bit](https://microbit.org/)
 - RC Vehicle (DC motor-based, not proprietary digital signal systems)
 - Battery packs (for micro:bit)
 - Battery for RC vehicle(Lithium based or normal AA/AAA battery)
